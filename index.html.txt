@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Waste Less & Reuse More</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+body {
+font-family: 'Roboto', sans-serif;
+margin: 0;
+background-color: #f9fafb;
+color: #333;
+}
+header {
+background: url('https://images.unsplash.com/photo-1556761175-4b46a572b786') no-repeat center center/cover;
+color: white;
+padding: 4rem 2rem;
+text-align: center;
+}
+header h1 {
+font-size: 3rem;
+margin-bottom: 0.5rem;
+}
+header p {
+font-size: 1.2rem;
+font-style: italic;
+}
+nav {
+background-color: #2f855a;
+color: white;
+text-align: center;
+padding: 1rem;
+}
+nav a {
+color: white;
+margin: 0 1rem;
+text-decoration: none;
+font-weight: bold;
+}
+main {
+padding: 2rem;
+max-width: 1000px;
+margin: auto;
+}
+section {
+margin-bottom: 3rem;
+background-color: white;
+padding: 2rem;
+border-radius: 12px;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+h2 {
+color: #2f855a;
+margin-bottom: 1rem;
+}
+footer {
+background-color: #2f855a;
+color: white;
+text-align: center;
+padding: 2rem 1rem;
+margin-top: 4rem;
+}
+ul {
+padding-left: 1.5rem;
+}
+img {
+width: 100%;
+max-width: 700px;
+margin: 1rem auto;
+display: block;
+border-radius: 10px;
+}
+blockquote {
+background-color: #edf7ed;
+padding: 1rem;
+border-left: 6px solid #2f855a;
+margin: 1rem 0;
+font-style: italic;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Waste Less & Reuse More</h1>
+<p>By Jahsiah M. Dujour | March 23, 2025</p>
+</header>
+
+<nav>
+<a href="#abstract">Abstract</a>
+<a href="#background">Background</a>
+<a href="#research">Research</a>
+<a href="#solutions">Solutions</a>
+<a href="#reflection">Reflection</a>
+<a href="#sources">Sources</a>
+</nav>
+
+<main>
+<section id="abstract">
+<h2>Abstract</h2>
+<p>Since the 1600s, food waste has plagued our world, not just in small bits but in massive, destructive volumes. Using scientific articles, government data, and insights from leading professors, this project explores how composting can be a powerful solution to our waste crisis. Research findings led to practical solutions like community compost centers and youth education. This project proposes a complete awareness and participation plan that turns food waste from a burden into a resource.</p>
+<img src="https://images.unsplash.com/photo-1579566346929-436e20bff6ad" alt="Composting Process" />
+</section>
+
+<section id="background">
+<h2>Background & Thesis</h2>
+<p>Food waste has been a longstanding issue, and it's only escalating. Composting is a simple, effective solution—yet not enough people do it due to lack of knowledge or access. This paper explores the origins of the crisis, composting’s environmental benefits, and community-based strategies to improve participation. With tools and knowledge, composting can become second nature to most of the population.</p>
+<blockquote>"If more than 70% of Earth's population composted, we could turn food waste into something useful instead of letting it destroy our planet."</blockquote>
+</section>
+
+<section id="research">
+<h2>Primary & Secondary Research</h2>
+<p>I conducted a survey with middle schoolers and adults to understand food waste habits and composting knowledge. Most knew food waste was a problem, but few composted—mainly due to lack of awareness or access. Over 75% admitted tossing food waste into the trash or sink disposal because it’s more convenient.</p>
+<p>This matches the scientific literature: composting reduces methane emissions and helps enrich soil. Agencies like the EPA and UNEP emphasize that food waste contributes to climate change—and composting is an effective countermeasure.</p>
+<img src="https://images.unsplash.com/photo-1614871424013-96ed5b19e994" alt="Survey results graphic" />
+</section>
+
+<section id="solutions">
+<h2>Solutions and Action</h2>
+<p>Solutions include compost bins in neighborhoods, compost education in schools, and campaigns to raise awareness. My action was this project—an online campaign to educate and motivate people to compost.</p>
+<p>When people learn how to compost and realize the impact it has on the environment, they’re more likely to make the change. This project is one step in that direction.</p>
+</section>
+
+<section id="reflection">
+<h2>Reflection</h2>
+<p>I chose this topic because climate change is one of the biggest threats to life on Earth, and food waste makes it worse. I learned composting is powerful—it improves soil, cleans air, and helps fight climate change.</p>
+<p>This project spreads the message. But power and privilege can limit who gets to act. Poorer communities often lack compost bins or the time to compost. We must work to make composting accessible for everyone.</p>
+</section>
+
+<section id="sources">
+<h2>Annotated Bibliography</h2>
+<ul>
+<li><strong>EPA (2025):</strong> Discusses the environmental benefits of composting and its role in reducing methane emissions.</li>
+<li><strong>UNEP (2024):</strong> Details global strategies for food waste management and the environmental cost of waste.</li>
+<li><strong>Greenhouse Gas and Air Pollutant Emissions from Composting (2023):</strong> An academic study on composting emissions and soil enrichment benefits.</li>
+</ul>
+</section>
+</main>
+
+<footer>
+<p>Created by Jahsiah M. Dujour | Youth Participatory Action Research Project 2025</p>
+</footer>
+</body>
+</html>
